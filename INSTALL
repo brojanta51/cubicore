@@ -1,0 +1,9 @@
+Building cubicore
+
+See doc/readme-qt.rst for instructions on building cubicore QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of cubicore.
+
+See doc/build-*.txt for instructions on building cubicored,
+the intended-for-services, no-graphical-interface, reference
+implementation of cubicore.
